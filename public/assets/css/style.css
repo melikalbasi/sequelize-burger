@@ -1,0 +1,42 @@
+body {
+  background-image: url("../images/burger.jpg");
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  color: bisque;
+  font-size: 60px;
+  margin-top: 0px;
+  margin-bottom: 15px;
+  justify-content: center;
+}
+
+h2 {
+  font-family: 'Sacramento', cursive;
+  color: bisque;
+  font-size: 40px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+li {
+  padding: 5px;
+  margin: 5px;
+  font-family: 'Bangers', cursive;
+}
+
+.label {
+  font-weight: bold;
+  font-family: 'Bangers', cursive;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  font-family: 'Bangers', cursive;
+}
+
+.form-group {
+  margin-bottom: 5px;
+  font-family: 'Bangers', cursive;
+}
